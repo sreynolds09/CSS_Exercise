@@ -1,0 +1,53 @@
+/* Exercise 2 */
+.nav-link {
+  color: orange;
+  text-decoration: none;
+}
+
+/* Exercise 3 */
+main {
+  max-width: 600px;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Exercise 4 */
+section {
+  margin-top: 24px;
+  margin-bottom: 24px;
+  padding: 16px;
+}
+
+/* Exercise 5 */
+#title {
+  font-size: 40px;
+  font-weight: 800;
+}
+
+/* Exercise 6 */
+.d-inline {
+  display: inline;
+}
+
+/* Exercise 7 */
+nav ul {
+  list-style: none;
+}
+
+/* Exercise 8 */
+body {
+  background-color: #222222;
+  color: #eeeeee;
+}
+
+/* Exercise 9 */
+#avatar {
+  width: 100px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 32px;
+  margin-bottom: 32px;
+  display: block; /* needed to center with auto margins */
+}
